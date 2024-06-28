@@ -6,13 +6,13 @@
 
 .scrolly{
     height: 100%;
-    width:20px;
+    width:100px;
     border:1px solid black;
     overflow: auto  ;
 }
 
 ::-webkit-scrollbar{
-    width:20px;
+    width:100px;
 }
 
 ::-webkit-scrollbar-track{
